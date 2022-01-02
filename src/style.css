@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+h1,
+p {
+  font-family: Lato;
+}
+img {
+  width: 10rem;
+}
